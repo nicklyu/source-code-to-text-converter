@@ -1,4 +1,4 @@
-###Command line Arguments:
+### Command line Arguments:
 
 *1* - path to directory
 
@@ -8,6 +8,6 @@
 
 *4 (optional)* - separator
 
-####Sample:
+#### Sample:
 
 "C:\Users\user\IdeaProjects\test" "C:\Users\user\IdeaProjects\test\output.txt" ".kt .java"
