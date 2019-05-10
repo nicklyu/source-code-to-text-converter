@@ -1,0 +1,3 @@
+rootProject.name = 'source-code-to-text-converter'
+include 'core'
+include 'console'
